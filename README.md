@@ -1,5 +1,4 @@
 # 📘 AI-Based Self-Introduction Evaluation Tool
-### **Nirmaan Education – AI Internship Case Study Submission**
 ### **Created by: Tanishka Shirole**
 
 ## 🧠 Overview
