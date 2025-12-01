@@ -2,7 +2,7 @@
 ### **Created by: Tanishka Shirole**
 
 ## 🧠 Overview
-This tool evaluates a student's spoken self-introduction using the official Nirmaan Education rubric. It analyzes content, structure, delivery, language quality, and engagement to produce an overall score out of 100.
+This tool evaluates a student's spoken self-introduction using rubric. It analyzes content, structure, delivery, language quality, and engagement to produce an overall score out of 100.
 
 ## 🚀 Features
 - Salutation detection  
